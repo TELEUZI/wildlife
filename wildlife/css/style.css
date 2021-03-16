@@ -119,7 +119,7 @@ li>a {
 }
 
 .menu-li {
-    margin-right: 63px;
+    margin-right: 62px;
     min-width: max-content;
 }
 
@@ -368,8 +368,8 @@ footer .logo-wrapper {
 }
 
 .content-wrapper {
-    max-width: 1200px;
-    padding-left: 119px;
+    max-width: 1202px;
+    margin: 0 auto;
 }
 
 .slider-wrapper {
