@@ -123,6 +123,10 @@ li>a {
     min-width: max-content;
 }
 
+form {
+    display: flex;
+}
+
 .menu-li:hover {
     text-decoration: underline;
 }
