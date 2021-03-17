@@ -159,6 +159,7 @@ form {
 
 .donate-button:focus {
     background-color: #8F5613;
+    border: 0px;
 }
 
 .donate-button-text {
@@ -322,10 +323,11 @@ main {
 
 .submit-button:focus {
     background-color: #8F5613;
+    border: 0px;
 }
 
 footer {
-    background: url("../assets/2.jfif");
+    background: #181617 url("../assets/2.jfif");
     background-position: center;
     min-height: 360px;
     display: flex;
@@ -369,6 +371,7 @@ footer .logo-wrapper {
 
 .sign-in:focus-within {
     background-color: #8F5613;
+    border: 0px;
 }
 
 .content-wrapper {
