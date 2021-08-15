@@ -1,2 +1,1 @@
-# teleuzi-JSFE2021Q1
-Private repository for @teleuzi
+Single page website about nature and how we can help it. Build with HTML5/CSS3 only.
